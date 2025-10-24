@@ -43,7 +43,8 @@ This project provided hands-on experience in:
 ---
 
 ## 📂 Folder Structure
----
+
+
 lib/
  ├── main.dart
  ├── models/
@@ -59,7 +60,8 @@ lib/
  │    ├── quote_card.dart
  │    ├── bottom_navbar.dart
  │    └── drawer_menu.dart
----
+
+
 ---
 
 ## 🧭 How to Run
