@@ -65,7 +65,7 @@ This project provided hands-on experience in:
 ## 🧭 How to Run
 
 1. Clone this repository:
-      git clone https://github.com/yourusername/random-quote-generator.git
+      git clone https://github.com/SamithShashika71/Random-Quote-Generator-App.git
 
 2. Navigate to the project directory:
       cd random-quote-generator
