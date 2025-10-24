@@ -45,42 +45,42 @@ This project provided hands-on experience in:
 ## 📂 Folder Structure
 
 lib/
-├── main.dart
-├── models/
-│ └── quote_model.dart
-├── controllers/
-│ └── quote_controller.dart
-├── data/
-│ └── quotes_data.dart
-├── screens/
-│ ├── home_screen.dart
-│ └── detail_screen.dart
-├── widgets/
-│ ├── quote_card.dart
-│ ├── bottom_navbar.dart
-│ └── drawer_menu.dart
+ ├── main.dart
+ ├── models/
+ │    └── quote_model.dart
+ ├── controllers/
+ │    └── quote_controller.dart
+ ├── data/
+ │    └── quotes_data.dart
+ ├── screens/
+ │    ├── home_screen.dart
+ │    └── detail_screen.dart
+ ├── widgets/
+ │    ├── quote_card.dart
+ │    ├── bottom_navbar.dart
+ │    └── drawer_menu.dart
 
 ---
 
 ## 🧭 How to Run
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/random-quote-generator.git
+      git clone https://github.com/yourusername/random-quote-generator.git
 
 2. Navigate to the project directory:
-   cd random-quote-generator
+      cd random-quote-generator
 
 3. Run the app:
-   flutter run
+      flutter run
 
 ---
 
 📘 Repository Information
 
-Module: CCS3351 – Mobile Application Development
-Project: Random Famous Quote Generator
-Developer: Samith Shashika
-Institution: Sri Lanka Technological Campus (SLTC)
+* Module: CCS3351 – Mobile Application Development
+* Project: Random Famous Quote Generator
+* Developer: Samith Shashika
+* Institution: Sri Lanka Technological Campus (SLTC)
 
 ---
 
