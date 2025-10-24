@@ -1,4 +1,5 @@
 # 📱 Random Quote Generator App
+# CCS3351 – Mobile Application Development -Final Project
 
 A Flutter mobile application that displays **random famous quotes** categorized into themes like Motivation, Life, Finance, and Love.  
 Built as part of the **CCS3351 – Mobile Application Development** final project, this app demonstrates **Flutter UI design, state management, and navigation** using **GetX**.
@@ -59,6 +60,38 @@ lib/
 │ ├── bottom_navbar.dart
 │ └── drawer_menu.dart
 
-## 🖼️ Screenshots
+---
 
-<img width="633" height="897" alt="Screenshot 2025-10-24 230057" src="https://github.com/user-attachments/assets/bb9dd272-4647-4f03-a73b-72ab238a6671" />
+## 🧭 How to Run
+
+1. Clone this repository:
+   git clone https://github.com/yourusername/random-quote-generator.git
+
+2. Navigate to the project directory:
+   cd random-quote-generator
+
+3. Run the app:
+   flutter run
+
+---
+
+📘 Repository Information
+
+Module: CCS3351 – Mobile Application Development
+Project: Random Famous Quote Generator
+Developer: Samith Shashika
+Institution: Sri Lanka Technological Campus (SLTC)
+
+---
+
+🏁 License
+
+This project is licensed under the MIT License – feel free to use and modify it.
+
+---
+
+❤️ Acknowledgements
+
+* SLTC – CCS3351 Mobile Application Development module
+* Lecturers and mentors for project guidance
+* Flutter & GetX open-source communities
