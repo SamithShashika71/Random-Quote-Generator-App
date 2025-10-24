@@ -44,23 +44,21 @@ This project provided hands-on experience in:
 
 ## 📂 Folder Structure
 
-
-lib/
- ├── main.dart
- ├── models/
- │    └── quote_model.dart
- ├── controllers/
- │    └── quote_controller.dart
- ├── data/
- │    └── quotes_data.dart
- ├── screens/
- │    ├── home_screen.dart
- │    └── detail_screen.dart
- ├── widgets/
- │    ├── quote_card.dart
- │    ├── bottom_navbar.dart
- │    └── drawer_menu.dart
-
+       lib/
+        ├── main.dart
+        ├── models/
+        │    └── quote_model.dart
+        ├── controllers/
+        │    └── quote_controller.dart
+        ├── data/
+        │    └── quotes_data.dart
+        ├── screens/
+        │    ├── home_screen.dart
+        │    └── detail_screen.dart
+        ├── widgets/
+        │    ├── quote_card.dart
+        │    ├── bottom_navbar.dart
+        │    └── drawer_menu.dart
 
 ---
 
